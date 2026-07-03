@@ -9,7 +9,7 @@ public class MenuPrincipal {
 
         while (opcion != 9) {
             System.out.println();
-            System.out.println("=== AGENDA DE CONTACTOS ===");
+            System.out.println("===AGENDA DE CONTACTOS ===");
             System.out.println("1. Agregar contacto");
             System.out.println("2. Buscar contacto");
             System.out.println("3. Eliminar contacto");
